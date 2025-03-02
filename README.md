@@ -1,4 +1,4 @@
-# notix_app
+# memopad
 
 A new Flutter project.
 
